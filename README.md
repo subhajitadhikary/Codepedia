@@ -1,0 +1,2 @@
+# Codepedia
+Wikipedia for codes
